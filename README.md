@@ -47,3 +47,8 @@ Here are some final considerations:
 * You must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
 
 * See the [starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and expected format of the notebook.
+
+## Analysis
+1. The more a mouse weights the bigger the volume of the tumor size - this is validated by the p-value being 0.84 which indicates a strong relationship
+2. With the Capomulin Treatment regimen there is an increase in tumor size until day 20 then it trends down over time
+3. The treatment Capomulin had the lowest upper quartile of final tumor volume of the four treaments indicating that it is the most effective treatment of the grouping 
